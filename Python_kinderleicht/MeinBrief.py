@@ -1,0 +1,13 @@
+Leerzeichen = ' ' * 35
+print('%s Hinten Raus 12' % Leerzeichen)
+print('%s 11156 Osterschnarchheim' % Leerzeichen)
+print()
+print()
+print('Sehr geehrte Damen und Herren')
+print()
+print('ich muss Ihnen berdauerlicherweise mitteilen, dass bei meinem')
+print('Toilettenhaeuschen einige Dachziegeln fehlen.')
+print('Ich glaube, dass der Sturm sie letzte Nacht heruntergweht hat.')
+print()
+print('Mit freundlichen Gruessen')
+print('Max Maus')
